@@ -1,5 +1,5 @@
 # Geoscience-BC-project-2019-014
-This repository contains the data,figures and codes used in Geoscience BC project 2019-014 titled:
+This repository contains the data, figures and codes used in Geoscience BC project 2019-014 titled:
 
 "Development of an Induced Seismicity
 Susceptibility Framework and Map for NEBC
