@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20201215</CreaDate><CreaTime>17072100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractValuesToPoints" Date="20201215" Time="170721">ExtractValuesToPoints BCHFWells_Intersect1 MontneyPP "F:\Afshin\GeoscienceBC\Pore Pressure\At wells\HFwells_PP.shp" NONE VALUE_ONLY</Process></lineage></DataProperties></Esri></metadata>
