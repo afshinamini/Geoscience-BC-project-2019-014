@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210317</CreaDate><CreaTime>12021500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractValuesToPoints" Date="20210317" Time="120215">ExtractValuesToPoints Montney_grid Belloy "F:\Afshin\GeoscienceBC\Formation Tops\Belloy\Shapefile\At_Grid\MontGrid_Belloy.shp" NONE VALUE_ONLY</Process></lineage></DataProperties></Esri></metadata>
