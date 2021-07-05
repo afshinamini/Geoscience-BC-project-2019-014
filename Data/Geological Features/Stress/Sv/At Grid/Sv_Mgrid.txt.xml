@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210107</CreaDate><CreaTime>11330600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractValuesToPoints" Date="20210107" Time="113135">ExtractValuesToPoints Montney_grid Sv "F:\Afshin\GeoscienceBC\Stress\Sv\At Grid\Sv_grad_MGrid.shp" NONE VALUE_ONLY</Process></lineage></DataProperties></Esri></metadata>
