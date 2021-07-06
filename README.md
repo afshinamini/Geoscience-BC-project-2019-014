@@ -7,7 +7,7 @@ using an Integrated Machine Learning and
 Mechanistic Validation Approach"
 
 This report presents the results of research undertaken to develop an induced seismicity
-susceptibility map for Northeaster British Columbia (NEBC), with focus placed on the Montney region. Of interest was the
+susceptibility map for North Eastern British Columbia (NEBC), with focus placed on the Montney region. Of interest was the
 development of an initial susceptibility map, but also a framework and workflow to guide
 practitioners in using machine learning to prepare induced seismicity susceptibility maps for
 any region, or to update these as more data becomes available over time. Three key objectives
