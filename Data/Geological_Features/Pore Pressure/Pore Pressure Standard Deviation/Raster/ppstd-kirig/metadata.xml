@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210329</CreaDate><CreaTime>12544500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Kriging" Date="20210329" Time="125445">Kriging PPSTD_Grid PPstd "F:\Afshin\GeoscienceBC\Pore Pressure\STD\Raster\ppstd-kirig" "Spherical 0.011004" 0.0110038810012 "VARIABLE 12" #</Process></lineage></DataProperties></Esri></metadata>
